@@ -20,6 +20,7 @@
   --color-disabled: var(--m-green-100);
   --color-hover: var(--m-green-600);
   --color-secondary: var(--m-green-900);
+  --emotion-pictures-with-title-bg-background-color-custom: var(--m-white);
   --emotion-pictures-with-title-bg-color-custom: var(--m-green-900);
   --font-family-secondary: OptimanovaLTW01, sans-serif;
   --footer-default-a-color-hover: var(--m-green-600);
@@ -36,6 +37,6 @@
   --header-default-border-bottom-custom: 1px solid var(--m-gray-300);
   --header-default-logo-width-custom: 190px;
   --navigation-default-color-custom: var(--color);
+  --search-input-width: 10em;
   --teaser-title-figcaption-background-color: var(--m-white);
-  --emotion-pictures-with-title-bg-background-color-custom: var(--m-white);
 }
