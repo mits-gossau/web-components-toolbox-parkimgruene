@@ -22,6 +22,7 @@
   --color-secondary: var(--m-green-900);
   --emotion-pictures-with-title-bg-background-color-custom: var(--m-white);
   --emotion-pictures-with-title-bg-color-custom: var(--m-green-900);
+  --emotion-pictures-with-title-bg-line-height-secondary-custom: normal;
   --font-family-secondary: OptimanovaLTW01, sans-serif;
   --footer-default-a-color-hover: var(--m-green-600);
   --footer-default-a-color: var(--color);
